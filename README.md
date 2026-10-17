@@ -52,7 +52,7 @@ This repository contains an independent frontend engineering implementation crea
 
 ---
 
-## ⚡ The 72-Hour "Raw Dogged" Challenge
+## ⚡ The 72-Hour Challenge
 
 This project was built under rigorous real-world constraints:
 
